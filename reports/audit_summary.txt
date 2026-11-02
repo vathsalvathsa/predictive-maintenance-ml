@@ -1,0 +1,7 @@
+METROPT-3 DATASET AUDIT
+=======================
+Records: 1,516,948
+Columns: 17
+Duplicate rows: 0
+Missing values: 0
+Numeric columns: 16

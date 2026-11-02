@@ -5,4 +5,21 @@ __pycache__/
 .env
 .streamlit/secrets.toml
 venv/
+.venv/
 data/sensor_data_features.csv
+data/raw/
+# Virtual environment
+venv/
+
+# Raw MetroPT-3 data
+data/raw/
+
+# Generated processed datasets
+data/processed/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Model files
+models/*.pkl

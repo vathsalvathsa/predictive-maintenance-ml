@@ -1,0 +1,5 @@
+event_id,start_time,end_time,failure,severity
+E1,2020-04-18 00:00:00,2020-04-18 23:59:00,Air leak,High stress
+E2,2020-05-29 23:30:00,2020-05-30 06:00:00,Air leak,High stress
+E3,2020-06-05 10:00:00,2020-06-07 14:30:00,Air leak,High stress
+E4,2020-07-15 14:30:00,2020-07-15 19:00:00,Air leak,High stress
